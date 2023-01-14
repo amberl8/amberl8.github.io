@@ -1,8 +1,8 @@
 # Amber Lee
 
-amberl8@uw.edu
+Email: amberl8@uw.edu
 
-www.linkedin.com/in/amber-lee-42003b250
+[LinkedIn]
 
 <img src="/myassets/headshot.JPG" width="200">
 
@@ -45,3 +45,4 @@ Summary of role:
 
 [Mathnasium]: https://www.mathnasium.com/
 [Quality Food Centers]: https://www.qfc.com/
+[LinkedIn]: www.linkedin.com/in/amber-lee-42003b250
