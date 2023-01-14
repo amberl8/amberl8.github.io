@@ -4,7 +4,7 @@ amberl8@uw.edu
 
 www.linkedin.com/in/amber-lee-42003b250
 
-<img src="/assets/headshot.JPG" width="200">
+<img src="/myassets/headshot.JPG" width="200">
 
 # Work Experience
 
