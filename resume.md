@@ -2,7 +2,7 @@
 
 Email: amberl8@uw.edu
 
-[LinkedIn]
+[LinkedIn][]
 
 <img src="/myassets/headshot.JPG" width="200">
 
