@@ -45,4 +45,4 @@ Summary of role:
 
 [Mathnasium]: https://www.mathnasium.com/
 [Quality Food Centers]: https://www.qfc.com/
-[LinkedIn]: www.linkedin.com/in/amber-lee-42003b250
+[LinkedIn]: https://www.linkedin.com/in/amber-lee-42003b250/
